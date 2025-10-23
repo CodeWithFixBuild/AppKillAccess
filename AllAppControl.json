@@ -1,7 +1,7 @@
 {
     "Message": "This app blocked by developer! Contact: Fixbuild!",
-    "app.fixbuild.vpncore.cloudlinkv2ray": {
-        "isDestroy": false
+    "app.fixbuild.vpncore.cloudlinkv2rayl": {
+        "isDestroy": true
     },
     "app.fixbuild.vpncore.cloudlinkv2rayn": {
         "isDestroy": false
